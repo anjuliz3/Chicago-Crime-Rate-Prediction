@@ -51,3 +51,5 @@ Latitude: The latitude of the location where the incident occurred. This locatio
 Longitude: The longitude of the location where the incident occurred. This location is shifted from the actual location for partial redaction but falls on the same block.
 
 Location: The location where the incident occurred in a format that allows for creation of maps and other geographic operations on this data portal. This location is shifted from the actual location for partial redaction but falls on the same block.
+
+Data can be found https://www.kaggle.com/currie32/crimes-in-chicago
